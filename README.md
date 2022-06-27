@@ -1,4 +1,4 @@
-# snapin_anchor
+# Snap-in anchor fot MISUMI extruder
 Cable tie anchor for MISUMI extruded frames
 
 <img src="img/photo.jpg" width="60%">
